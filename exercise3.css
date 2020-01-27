@@ -1,0 +1,38 @@
+body
+{
+    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.otsikko
+{
+    border-bottom: 2px solid red;
+    font-size: 16px;
+    
+}
+
+a:link, a:visited
+{
+    color: black;
+}
+
+
+.linkit:hover
+{
+    color: rgb(255, 255, 255);
+    
+}
+
+figure {
+    float: right;
+    width: 35%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thick black solid;
+    margin: 0.5em;
+    padding: 0.5em;
+  }

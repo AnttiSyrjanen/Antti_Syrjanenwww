@@ -1,0 +1,19 @@
+.otsikko
+{
+    font-size: 100px;
+    color: black;
+    text-align: center;
+
+}
+
+.navbar
+{
+    color: black;
+    font-size: 20px;
+}
+
+.col-6
+{
+    text-align: left;
+    float: left;
+}

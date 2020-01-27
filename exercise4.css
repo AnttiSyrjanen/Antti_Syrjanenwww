@@ -1,0 +1,46 @@
+
+.otsikko
+{
+
+    color: white;
+    background-color: blue;
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
+}
+
+.footer
+{
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+}
+.divi
+{
+    float: left;
+    background-color: yellow;
+    width: 30%;
+    height: 20vh;
+    font-size: 25px;
+}
+.divi2
+{
+    float: right;
+    background-color: lightgray;
+    width: 70%;
+    text-align: left;
+    height: 20vh;
+    
+}
+
+.bigflex
+{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    
+}
+
